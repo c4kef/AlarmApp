@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\bin\Release\netstandard2.0\AlarmApp.deps.json
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\bin\Release\netstandard2.0\AlarmApp.dll
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\bin\Release\netstandard2.0\AlarmApp.pdb
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\AlarmApp.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\AlarmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\AlarmApp.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\AlarmApp.AssemblyInfo.cs
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\AlarmApp.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\AlarmApp.dll
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\refint\AlarmApp.dll
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\AlarmApp.pdb
+C:\Users\artem\source\repos\Clock-Animation-in-Xamarin-Forms-master\AlarmApp\AlarmApp\obj\Release\netstandard2.0\ref\AlarmApp.dll
